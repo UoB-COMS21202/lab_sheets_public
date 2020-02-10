@@ -4,3 +4,4 @@
 |-----|----------|
 | 1   | [Intro](lab_1/labsheet1.ipynb) |
 | 2   | [Intro 2](lab_2/labsheet2.ipynb) |
+| 3   | [Least squares](lab_3/labsheet3.ipynb) |
